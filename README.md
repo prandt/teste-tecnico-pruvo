@@ -9,7 +9,7 @@ Foi desenvolvido um script que obtém dados de filmes de uma API e popula uma pl
 
 A funcionalidade Buscar Filmes faz uma requisição na API com dez (10) filmes, e automaticamente popula as linhas da planilha. Sempre que utlizado a função o Script irá buscar sempre os próximos 10 filmes da lista sendo essa lista contendos filmes de ID igual 76341 a 7700.
 
-A funcionalidade Apagar Dados irá apagar todas as celulás deixando apenas as colunas padrões. 
+A funcionalidade Apagar Dados irá apagar todas as células deixando apenas as colunas padrões. 
 ```
 'Nome,'Status','IMDB','Gêneros','ID'
 ```
