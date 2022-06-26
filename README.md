@@ -7,7 +7,7 @@ Foi desenvolvido um script que obtém dados de filmes de uma API e popula uma pl
 - Buscar filmes
 - Apagar dados
 
-A funcionalidade Buscar Filmes faz uma requisição na API com dez (10) filmes, e automaticamente popula as linhas da planilha. Sempre que utlizado a função o Script irá buscar sempre os próximos 10 filmes da lista sendo essa lista contendos filmes de ID igual 76341 a 7700.
+A funcionalidade Buscar Filmes faz uma requisição na API com dez (10) filmes e automaticamente popula as linhas da planilha. Sempre que utlizada essa função, o Script irá buscar os próximos 10 filmes da lista que contenham dados de ID entre 76341 e 77000.
 
 A funcionalidade Apagar Dados irá apagar todas as células deixando apenas as colunas padrões. 
 ```
@@ -16,7 +16,7 @@ A funcionalidade Apagar Dados irá apagar todas as células deixando apenas as c
 
 ## Screenshots
 
-A captura de tela a seguir demostra como é a planilha com dados e também com uma marcação na cor vemelha para destacar as funcionalidades.
+A captura de tela a seguir demonstra como é a planilha preenchida e com uma marcação na cor vemelha para destacar as funcionalidades:
 
 ![App Screenshot](https://rprandt.com/screenshot.png)
 
