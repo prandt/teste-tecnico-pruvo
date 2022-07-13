@@ -5,7 +5,7 @@ function createMenu(){
   const ui = SpreadsheetApp.getUi();
   ui.createMenu('Menu')
     .addItem('Buscar filmes', 'addData')
-    .addItem('Apagar Dados', 'clearRows')
+    .addItem('Apagar dados', 'clearRows')
     .addToUi();
 }
 
